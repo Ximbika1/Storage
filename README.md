@@ -3,7 +3,7 @@
 App Mobile Storage
 
 ##Descrição:
-Aplicativo o qual intuito é armazenar nome, ano e descrição de obras(literarias, filme, desenho, entre outros ) do usuário
+Aplicativo o qual intuito é armazenar imagem, nome, ano e descrição de obras(literarias, filme, desenho, entre outros ) do usuário
 
 ## Ferramentas utilizadas:
 
